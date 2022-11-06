@@ -2,12 +2,12 @@ package main
 
 import (
 	"urlshortner/model"
-	// "urlshortner/server"
+	"urlshortner/server"
 )
 
 
 
 func main() {
 	model.Setup()
-	// server.SetupAndListen()
+	server.SetupAndListen()
 }
