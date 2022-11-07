@@ -1,3 +1,3 @@
-# view/scripts/* linguist-vendored
-* linguist-vendored
-*.js linguist-vendored=false
+view/scripts/* linguist-vendored
+# * linguist-vendored
+# *.js linguist-vendored=false
